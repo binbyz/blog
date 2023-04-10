@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   AI era has opened up and we may become less inclined to read books or contemplate on something. 
   However, AI is also created by humans in the end. 
   Let's read good books and learn more! By the way, who am I? 🤔
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://binbyz.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eyedroot
 github_username:  binbyz
 
